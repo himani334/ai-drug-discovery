@@ -1,5 +1,5 @@
-streamlit
+streamlit==1.25.0
 pandas
 numpy
-torch
-rdkit
+torch==1.10.0
+torchvision==0.11.1
